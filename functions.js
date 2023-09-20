@@ -15,6 +15,7 @@
 // let rectangle1 = createRectangle(10,20);
 // console.log(rectangle1);
 
-// Constructor function -> pascal notation-> first letter should be capital 
+// Constructor function -> pascal notation(PascalNotation  -> first letter should be capital 
 
+    
 
