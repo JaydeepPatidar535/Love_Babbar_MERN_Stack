@@ -16,6 +16,15 @@
 // console.log(rectangle1);
 
 // Constructor function -> pascal notation(PascalNotation  -> first letter should be capital 
+// this keyword is used for representing the current object where we work if there is any else it is pointing empty object
+    //  function Rectangle(){
+    //     this.length=10,
+    //     this.breadth=20,
+    //     this.draw = function(){
+    //         console.log("Drawing Rectangle");
+    //     }
+    //  };
 
-    
+    //  let object = new Rectangle();
+
 
